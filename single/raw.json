@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    }
+]

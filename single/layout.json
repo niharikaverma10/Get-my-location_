@@ -1,0 +1,1906 @@
+[
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main5.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main4.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main5.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main4.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main4.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main4.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main4.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main5.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main5.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main4.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main5.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main5.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\src\\main\\res\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    }
+]

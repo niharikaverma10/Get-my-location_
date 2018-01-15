@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\akku\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\akku\\1.10\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "D:\\IT welcome juniors\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "F:\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\adi niu\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\akku\\1.7\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "D:\\akku\\1.9\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\Android Projects\\GetMyLatLongExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\akku\\getmylatlong1.2\\GetMyLatLongExample1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    }
+]
