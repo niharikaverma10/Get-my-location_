@@ -1,2 +1,2 @@
-# Get-my-location_
-A repository for android project.
+# get-my-location
+# get-my-location

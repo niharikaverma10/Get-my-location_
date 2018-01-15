@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.1.0_0ffe3465d15c9605ea436e021ebce594e73770d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.1.0_1fb59e23a3f86fb2c9d231f5008537d529477362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.1.0_5defd68d87634dc3bb9cec259763a43f39461aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_4b5f94b59d602497a03c97871f34c61f6e545cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_329f3e7ed508a515e0aebc505c8cad8f6f4b1c38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.1.0_0e664f4b97a5698ec99d8b4ad76829b63b5f1f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_1cf501cc7983d03b38a6461939427cebbfc9a03d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.1.0_dfadc19e4dfded42f3810bf4d7e93f63629e5e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.1.0_2653f9d3545dcb803fd154d145e9615726d1e57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_40b5d92dee3ec93c9b98270f08275ac32d137bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.1.0_a89b82cb6241cd5b2c1b2d97e6df119534486326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.1.0_e9c83daf71644fa43d705e6bdd01ca8a96f2cc21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.1.0_08db964816b7b546a55e6dec02fbb2dcfd15caa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.1.0_eac0423edede3545048db7e2c6d4d869458640fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_75171bc1a37b38c23bd57d05aa11c2e3318c13e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_5b70011fdade3a407e526b45a5f1fc754ea28843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.1.0_c61f1f3ac78178c5edb267dcfff2b2b08d47af9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_b96f3ef922104d1f051dfa64c7a4f3fea3ac254e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_35f594f75c84e627e98ccd4ebebe7c5837a5fd98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.1.0_f94cae905a7ae8caa9304d275cda0b759d543768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_fd79eca7684f88703ab87fc852834be04c6af2fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_6d27fb627abe30cee3708ab77779dbdffad286bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_66464b0edd4ec82e73a192b4f280e4a226c30002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.1.0_cefb66ab0dc2d63ca81276339add15ebe5cd1516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_515c349ecb9d9ca9211df661d9d1a189b5b71f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.1.0_6dde94c17b54f31a9121d78c5fda3e536d159b7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.1.0_f71e78ed7d0e211440d6ab239e5d8b000e030e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.1.0_777a7e631dd7aa65d2d3b6984a52885d04d2690d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.1.0_4129115b505b9e1540700a99b3dbd5d9c8268624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.1.0_68b907fccc002ae801172b0064563f4ca7e376d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_e5f2df4526f667d18dfaaa76affd894b5ff74f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.1.0_e94f1d3c22bdeb00a226422b89187240c9c0f0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.1.0_9b45e0a55d8193b9f139e32b8b0839ebcbb0d713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.1.0_1f3eb6e54be12f4113c5919003ced310adc40469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_fd7b0a092b95d423a8910e5796d9f1bf56c6f3e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_4f69100252e14159aa73080a649be299250d30ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_c761a53c1e42b24cd07d221d3d62122c1ef1007d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_032f372549fe9296ee59c7c1a731c52590e68a68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_257166b599898456375666fa3fd4d6654adf2ee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_060544c86e1a4f1ebc8c5229471145be4cbfeafa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.1.0_69c89cca69dc6b3a914a08935889b7363b98eb55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.1.0_688464c251870ca1abff75b0a50fc866f0855532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.1.0_f2aec02970f307b9f57b4b40a647e7a55c1ff208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_cc127850ea89b5196df9bcb4d58e6995119e0e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_d325b59b2e8988672d35a76695e18736cb5083d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_d00406c2df474dd40521e09bac757f8cc2ef7737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_5f6bfc06ce140e71bc067ba94b70400eaf0c1313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_d2c6145fc15888ba85130536cb8f9bebcba62202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.1.0_9cd38b0b16ba12c799921754ff99100933d5d78f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_a014e4d376d31130ab8f8f3eddb02f0903e2cbf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.1.0_09bef04239fbe03427479af078c2a696086a986b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.1.0_3a85d4442acdb5e585534c7f3840f89f89c6024c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.1.0_2f39bc9ab21e7f9ae949926831025239e40a2c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_a0bff2f58d95d4b13f71e2dfae1d9a5157eaba54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.1.0_8d715436ea777a9945b7fafaf5fc04f9710159d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.1.0_ceac6ea1c186450040f5e13834a3f0bf602020e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.1.0_65304c5f8cabcb0a2dd80f87d864f2d96205eaf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.1.0_c86c3c24a4137a31d9f1b0c0e37763ffc6d23990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.1.0_aa8f24e40357bd4218f58204beacdce80d3cfe12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.1.0_2f6a077af1351ff148dbf05ee907c3d156cf78f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_5103cd390610478f6fc3e4a76d78afe27421833a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_be0045b41daa7748c52406dd0d0f50368903bf3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.1.0_821e832524855c52599ba39ecf1e9126dd294a82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.1.0_6d731a1e95bf1aecd67d0a0a9dbc005001fccd0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.1.0_29c7cf7ab0a247a5edf51889619f24fb20c44417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.1.0_6ed9ae2ed5ba7bb961fd13e47bb5981f132f33f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.1.0_225942dcd050827b25e09dd3dbe89151105c27d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_1db2238d3fffebf7aefea6e29d3db348c3a2a3a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_d735ab68ad5ba7ff04b2c2f047dc208000a1679c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.1.0_4e53dc3570acb43b739419cd8aedb7aaba841622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_716467e70653471180b3cf4ba18b29d0393f7d8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.1.0_f687483c643ad3d1bf8fe7f3a78cb3f8198f9077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.1.0_dca73fb1eb99b3472818595a16dfc8650da67c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_8b5e359a22dc6f28b3cb249a55561e2b61224c26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_61c551627c51e5dcc68ae2efe0f4acbc81ff1683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.1.0_d2039183bf7485944cad956b6886413c871c5b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.1.0_11451f60677d23f0c8014e0e408b1659e1d3ee06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.1.0_b173c42659b42c5335f5045a880986f36e669033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.1.0_d3802f69719771ddd03688b1d893fe4c0725e505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.1.0_d753a065b457d5150611f15aa9809152c5be54e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.1.0_b216461a39b97aba41c0666f19a0c8e89c33dcd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_4ac53b71461e3756b1948e1aaa629620ae613a6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_08e88dc0fb989355ada6a60b45e2c878c9d25a13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.1.0_94cb4c7d37dbc604bb31db36a6084c58bed20166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_bcdbb8849aa1dcb21b7b453465b980fa8a1db5e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.1.0_e87d5aa1e0365c34c5a0c4309d10b041caeb2356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.1.0_15791ab9df90f05ee8615ef361a286030a08eea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.1.0_9a732fb1b841417e068ae91d68529f87b1341b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.1.0_11b23e2c4ffd6ddc766547afddf43582fa6fd1f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_996c1f65b4ee72c697737dc15dbb79c8219496a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.1.0_335dc9dbcd7c6d4e5602529905b3a1f85197a154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.1.0_60a9e96f3e1abdffdb82eb377ebb91182e57f814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_5544cda76cace74048524a0a2b1aeb01ab5a1252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_439effb5879a81975b09b6643061e6d9a5b9b9a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.1.0_eb4c0c866f231882becf11f80678ae0bbf234bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_211e36af2588cf1a785feab64d20429e7fde322b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_03f33231526e3a92eb9969bc767dc89abb2d11e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.1.0_5fd0e0a6ebba4a6f6bef9f1f38c00c0aeedbc153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.1.0_56b00884a2048d91b0c4b314c24de51718a6febb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.1.0_3bbec773caf48431936c908be3f8431b3ba99f0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_397bd1561f2841045a420e74e3c22400f5ec9b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_61d8a94909ed52d76039647f20335b0ec2ab095e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\admin\Appdata\Local\android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_2d1fa0e62f20a12eeb5046337f066a0393c87f5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.1.0_0857f0b8a0cc266f19f71c04d07d5c3ad20c6891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_b71d380d8ea14891859335c88b46256de081f3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.1.0_259d504a0f17707706d4a6b7651b9d632e47edf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_6d1e8451b77bf5e15ff3fd2f9a755f5afb4f6945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_d28f1769db903cc20a4a3824143827b6a758f202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_aee8750b7c4e2ee4890ddb42822a6e415dcd279b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_a24db36f98f71e7f7f5428ce475a690141c291ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_8144e549cd6e6f587f75e70eeb58178f15f0187c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.1.0_9a163f685817c1936c62a28a128f87020d52d9a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.1.0_1848d9cd3312906c9260095f20dd296cafb6d794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.1.0_27db53a0699b0c2db73b135ee3f3be576006c82a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.1.0_3f3ebc865be17f136a400910b208daadcda6adb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.1.0_2af1bce475268e029193f3507f6e42ab67b929cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.1.0_36a54082e5ef0d014f6fd47dce7ca8d58f016e82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.1.0_9294b4e2812a9fd17be983f168d40ac01861116e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.1.0_96bcb1b2eccf04bd6834e7c2790b7f641b0d1846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\adi niu\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.1.0_983f84cedbb1c8cd8899481b2bbf02540bff9836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.1.0_7f59ea82f6296cf0d465e290ecb4d333d767d05d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.1.0_df4c52824ef571f1c27826ee6855cf9d729c058b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.1.0_fe10d5067cca735952338b1e9475b8ea689c36c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.1.0_41366e87a74e63b3f001b26178d2a212003d2fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_5b43fef3b33c0acdb75c942324cc8997706d2e7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="D:\akku\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.1.0_2cc8752d4a3212038d2770c25c8ed0a71afadafd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_59c92235744fc5af2c25882ae9158648e4e8d51e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.1.0_37cc0b2c80e4d2c9412f210219aac3114b142c3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_d25ada3bcc70b04677d5d30d7e21e030782e3837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.1.0_b0d65a1d4db81cd2c1ce9edf216e63749d9999ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_8da1d4164e2e849842add60a565024836341d3fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="D:\akku\getmylatlong1.2\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.1.0_d14bab7fd9f6728aaea7d80d9c59f4910dfac146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_df050321720af3b71cfbf97b92861b86b7378194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_68615d3161ad1772be50d18f68f899272015986a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="D:\akku\1.10\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.1.0_4aef753798c92d95bd036d9ac70b9cfa7c4b1925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="D:\akku\1.7\GetMyLatLongExample1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.1.0_f198d3a2f5db95613668011f291018067c26fecf.jar" />
+    </item>
+
+</items>
